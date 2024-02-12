@@ -1,18 +1,27 @@
-# Salesforce DX Project: Next Steps
+# About the project
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+BMI Calculator
 
-## How Do You Plan to Deploy Your Changes?
+Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+This project was carried out in LWC.
 
-## Configure Your Salesforce DX Project
+[Clique Here to access it!]([https://danielleoliveira-dev.github.io/urnaEletronicaProject/](https://danielleportfolio-dev-ed.develop.my.site.com/calculator)
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+## Layout web
 
-## Read All About It
+<div align="center">
+![image](https://github.com/danielleoliveira-dev/BMICalculator/assets/81488971/2ae80fb4-ea04-4fcf-81a1-cf6e89fa8a25)
+</div>
+<div align="center">
+![image](https://github.com/danielleoliveira-dev/BMICalculator/assets/81488971/8612cff1-6482-4023-9051-76e5a7d5736e)
+</div>
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+# Technologies used
+- LWC => HTML / CSS / JS / SLDS
+
+# Author
+
+Danielle de Oliveira Nogueira
+
+https://www.linkedin.com/in/danielleoliveira-dev/
