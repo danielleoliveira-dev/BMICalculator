@@ -6,7 +6,7 @@ Body mass index (BMI) is a measure of body fat based on height and weight that a
 
 This project was carried out in LWC.
 
-[Clique Here to access it!]([https://danielleoliveira-dev.github.io/urnaEletronicaProject/](https://danielleportfolio-dev-ed.develop.my.site.com/calculator)
+[Clique Here to access it!]([https://danielleoliveira-dev.github.io/urnaEletronicaProject/](https://danielleportfolio-dev-ed.develop.my.site.com/calculator))
 
 ## Layout web
 
